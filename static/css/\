@@ -62,12 +62,6 @@
 	transition : linear 0.4s;
 }
 
-#low-icon{
-	filter : grayscale(100%);
-}
-
-
-
 /*-------------------*/
 :root,
 [data-bs-theme=light] {
